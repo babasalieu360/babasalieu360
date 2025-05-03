@@ -8,7 +8,7 @@
 
 `ALX Software Engineering Scholar` | `UI/UX Designer` | `Media Production Expert`
 
-- 🌱 **Currently Learning:** Advanced JavaScript, React, and UI/UX best practices  
+- 🌱 **Currently Learning:** Frontend Development through the ALX Software Engineering Program.
 - 🧠 **Strengths:** Problem-solving, empathy-driven design, technical creativity  
 - 🎯 **Mission:** Build accessible web solutions that merge technical excellence with visual storytelling  
 - 🎥 **Background:** 17+ years in video production and graphic design
