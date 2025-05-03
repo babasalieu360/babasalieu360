@@ -30,18 +30,6 @@
 
 ---
 
-## 📌 Active Projects
-
-### **Cinematic Portfolio Platform**  
-`React` `GSAP` `Styled Components`  
-Film-inspired developer portfolio showcasing coding projects and video work
-
-### **ALX Learning Hub**  
-`JavaScript` `Markdown` `Git`  
-Public documentation of my software engineering journey
-
----
-
 ## 🌟 Career Highlights
 
 - 🏆 Lead Video Editor documentaries **[🎥 NDP](https://www.youtube.com/watch?v=lLg3dsXlJQU&list=PLJ8esiIovC5nvWHvRn7ZuQvj9a3torcQi&index=3)**  
@@ -55,6 +43,19 @@ Public documentation of my software engineering journey
 [![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter)](https://x.com/momodousalieu)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-FF4088?style=for-the-badge&logo=google-chrome)](https://sites.google.com/view/momodousalieujallow/)
 [![Email](https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail)](mailto:ga3587764@gmail.com)
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/momodou-salieu-jallow/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="https://x.com/momodousalieu" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
+  </a>
+  <a href="https://www.youtube.com/@modousalieujallow24?sub_confirmation=1" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
+  </a>
+</div>
+
 
 ---
 
