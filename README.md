@@ -66,3 +66,6 @@
 ![Contribution Graph](https://raw.githubusercontent.com/babasalieu360/babasalieu360/output/pacman-contribution-graph.svg)
 
 *"Coding with the precision of film editing"* 🎞️
+*Thanks for stopping by!* 😇
+
+
