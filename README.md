@@ -67,5 +67,3 @@
 
 *"Coding with the precision of film editing"* 🎞️
 *Thanks for stopping by!* 😇
-
-
